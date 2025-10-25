@@ -1,6 +1,5 @@
 import java.util.Random;
 
-// ===== MAGE CLASS =====
 class Mage extends Character {
     public Mage() {
         // Mage starts with high MP, lower HP
